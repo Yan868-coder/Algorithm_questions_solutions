@@ -29,4 +29,4 @@ public:
     }
 };
 // @lc code=end
-
+//  i < k-1是未到达窗口的临界，仅此时可以continue
